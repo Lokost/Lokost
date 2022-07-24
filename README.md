@@ -1,6 +1,7 @@
 ## EAE! 👋 / Hey There! 👋
 
 Sou Gabriel Gomes, estou ainda no início do meu percurso no incrível mundo da tecnologia e da programação! Fazendo ainda projetos pequenos.
+
 I'm Gabriel Gomes, I still in the beginning of my way in the incredible world of the technology and programming! Doing just little projects.
 
 ### Social:
