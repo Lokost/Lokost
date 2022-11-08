@@ -1,4 +1,6 @@
-## EAE! 👋 / Hey There! 👋
+![Ilustração](./imagem para o Git Hub.png)
+
+# EAE! 👋 / Hey There! 👋
 
 Sou Gabriel Gomes, estou ainda no início do meu percurso no incrível mundo da tecnologia e da programação! Fazendo ainda projetos pequenos.
 
