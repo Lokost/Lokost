@@ -1,4 +1,4 @@
-![Ilustração](./imagem para o Git Hub.png)
+![Ilustração](git_cover.png)
 
 # EAE! 👋 / Hey There! 👋
 
